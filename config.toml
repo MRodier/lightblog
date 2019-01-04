@@ -1,4 +1,4 @@
-baseURL = "https://mrodier.github.io/lightblog"
+baseURL = "https://mrodier.github.io/lightblog/"
 publishDir = "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en"
