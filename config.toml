@@ -1,5 +1,5 @@
 baseURL = "https://mrodier.github.io/lightblog/"
-publishDir = "docs/index.html"
+publishDir = "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Matt's Tech Notes"
