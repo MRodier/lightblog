@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matt&#39;s Tech Notes</title>
-    <link>https://mrodier.github.io/lightblog/tags/</link>
+    <link>https://mrodier.github.io/lightblog/index.html/tags/</link>
     <description>Recent content in Tags on Matt&#39;s Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="https://mrodier.github.io/lightblog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mrodier.github.io/lightblog/index.html/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo</title>
-      <link>https://mrodier.github.io/lightblog/tags/demo/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/demo/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://mrodier.github.io/lightblog/tags/development/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/development/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://mrodier.github.io/lightblog/tags/go/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/go/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://mrodier.github.io/lightblog/tags/golang/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/golang/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://mrodier.github.io/lightblog/tags/hugo/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/hugo/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://mrodier.github.io/lightblog/tags/image/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/image/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://mrodier.github.io/lightblog/tags/templates/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/templates/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://mrodier.github.io/lightblog/tags/themes/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/themes/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://mrodier.github.io/lightblog/tags/typography/</link>
+      <link>https://mrodier.github.io/lightblog/index.html/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://mrodier.github.io/lightblog/tags/typography/</guid>
+      <guid>https://mrodier.github.io/lightblog/index.html/tags/typography/</guid>
       <description></description>
     </item>
     
